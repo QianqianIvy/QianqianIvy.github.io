@@ -21,4 +21,7 @@ social: false  # includes social icons at the bottom of the page
 
 # Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
 
-I am an Economics Ph.D student at Emory University. I earned my B.A. and M.S. in economics from *Fudan University* in 2022. 
+I am an Economics Ph.D student at Emory University. Prior to Emory, I graduated from *Fudan University* with a Bachelor's Degree and a Master's Degree in economics. My research interest is in international macroeconomics and labor economics.
+
+You can contact me via email at [qianqian.tang@emory.edu](qianqian.tang@emory.edu), [Twitter](https://twitter.com/Ivy_Tang2), [Linkedin](www.linkedin.com/in/qianqian-tang-572566174).
+
