@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: http://qianqianivy.com/sitemap.xml
+Sitemap: https://qianqianivy.com/sitemap.xml
